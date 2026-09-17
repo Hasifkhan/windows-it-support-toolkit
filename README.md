@@ -133,6 +133,53 @@ IT Support | System Administration | Windows | Network & Infrastructure | IT Ope
 This project is published publicly for demonstration, reference, and professional portfolio purposes.
 
 The source remains **proprietary and all rights reserved** unless a separate written license is provided. See [`LICENSE`](LICENSE).
+## 📸 Screenshots
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="screenshots/main-menu.png" width="450"><br>
+      <b>Main Menu</b>
+    </td>
+    <td align="center">
+      <img src="screenshots/pc-information.png" width="450"><br>
+      <b>PC Information</b>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="screenshots/hardware-diagnostics.png" width="450"><br>
+      <b>Hardware Diagnostics</b>
+    </td>
+    <td align="center">
+      <img src="screenshots/network-diagnostics.png" width="450"><br>
+      <b>Network Diagnostics</b>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="screenshots/windows-repair.png" width="450"><br>
+      <b>Windows Repair</b>
+    </td>
+    <td align="center">
+      <img src="screenshots/security-firewall.png" width="450"><br>
+      <b>Security & Firewall</b>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="screenshots/report-generator.png" width="450"><br>
+      <b>Report Generator</b>
+    </td>
+    <td align="center">
+      <img src="screenshots/health-check.png" width="450"><br>
+      <b>Quick IT Health Check</b>
+    </td>
+  </tr>
+</table>
 
 ## Disclaimer
 
