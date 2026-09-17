@@ -1,0 +1,21 @@
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Editor / IDE
+.vscode/
+.idea/
+
+# Local logs and generated reports
+Logs/
+Reports/
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+~$*
+
+# Local test copies
+test/
+testing/
