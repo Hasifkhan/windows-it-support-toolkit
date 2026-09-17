@@ -1,6 +1,6 @@
 # Changelog
 
-## v3.1.1 — 2026-09-17
+## v3.1.2 — 2026-09-17
 
 ### Fixed
 - Corrected main-menu navigation so selecting module `1` reliably opens PC Information.
