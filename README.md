@@ -1,4 +1,4 @@
-# HASIF KHAN – Ultimate IT Support Toolkit
+Ultimate IT Support Toolkit
 
 **Professional Windows IT Support Toolkit | v3.1.1**
 
